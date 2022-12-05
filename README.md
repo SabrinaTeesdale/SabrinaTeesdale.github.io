@@ -3,9 +3,9 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>[Rebecca Coder]</title>
+	<title>Sabrina Teesdale</title>
 </head>
-<body background="1.jpg" bgcolor="white" link="blue" alink="blue" vlink="blue">
+<body background="1.jpg" bgcolor="Pastel blue" link="blue" alink="Pastel green" vlink="green">
 
 <!--Links at the top-->	
 	<h3 id="top" align="center">
@@ -21,7 +21,7 @@
 <!--Introduction with picture-->
 	<table bgcolor="white"><tr>
 	    <td><img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/mr-pants-with-hat.png" height="150"></td>
-	    <td><h4><font face="arial" size="4">Hello, world. I am [Rebecca Coder...] [This is a brief description of who I am, my dreams, and what I am passionate about.]</font></h4></td>
+	    <td><h4><font face="arial" size="4">Hello, world. I am Sabrina Teesdale,This is a brief description of who I am, my dreams, and what I am passionate about.</font></h4></td>
 	</tr></table>
 
 <!--About Me-->
@@ -32,7 +32,7 @@
 		</font>
 	</h1>
 	<font face="helvetica" color="black" size="3">
-		[This is a personal, professional, and academic description of myself that does not reveal personal information to strangers.]
+		This is a personal, professional, and academic description of myself that does not reveal personal information to strangers.
 	</font>
 	<br><br>
 
