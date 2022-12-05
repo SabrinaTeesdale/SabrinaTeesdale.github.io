@@ -32,7 +32,7 @@
 		</font>
 	</h1>
 	<font face="helvetica" color="black" size="3">
-		This is a personal, professional, and academic description of myself that does not reveal personal information to strangers.
+		
 	</font>
 	<br><br>
 
@@ -45,10 +45,11 @@
 	</h1>
 	<font face="helvetica" color="black" size="3">
 		<ul>
-		    <li>My work experience includes... []</li>
-		    <li>My volunteer experience includes... []</li>
-		    <li>My soft skills include... []</li>
-		    <li>My hard skills include... []</li>    
+
+		    <li>My volunteer experience includes organizing events and traveling 
+			    to other states to attend socail gaetherings[]</li>
+		    <li>My soft skills include Socail skills[]</li>
+		    <li>My hard skills include childcare[]</li>    
 		</ul>
 	</font>
 	
